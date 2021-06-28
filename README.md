@@ -29,3 +29,6 @@ F1 > 0.5
 
 ### Решение
 
+jupyter notebook с решением - SChupin_solution.ipynb
+
+Файл с прогнозами - SChupin_prediction.csv
